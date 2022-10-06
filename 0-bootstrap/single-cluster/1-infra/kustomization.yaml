@@ -1,7 +1,8 @@
 resources:
 #- argocd/consolelink.yaml
 - argocd/consolenotification.yaml
-- argocd/brennaNamespace.yaml
+- argocd/namespace-brennaNamespace.yaml
+- argocd/namespace-brenna.yaml
 - argocd/namespace-ibm-common-services.yaml
 #- argocd/namespace-ci.yaml
 #- argocd/namespace-dev.yaml
