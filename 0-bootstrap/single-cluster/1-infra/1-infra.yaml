@@ -10,7 +10,7 @@ spec:
   destinations:
   - namespace: ci
     server: https://kubernetes.default.svc
-  - namespace: brennaNamespace
+  - namespace: brenna-namespace
     server: https://kubernetes.default.svc
   - namespace: dev
     server: https://kubernetes.default.svc
